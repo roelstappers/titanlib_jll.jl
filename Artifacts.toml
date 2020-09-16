@@ -1,0 +1,180 @@
+[[titanlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8bbf6642ec3b3d1f239fab2ac09ca68c0cdb59cb"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "da6ba2aacd62d1fd5b03c5daa7135e7c3d499a19da45347801e3902fb39aa063"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[titanlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cf146a0e4959c86dcbecf371a35d868829f8f94e"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "db5d2a94062c9221c1e84fdf354d7ef8c9266a146cbaf4200c533f53d25ee608"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[titanlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "73601c9caf86701165f89281532788275250cdf5"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "4c81ca774f8b953b389614407c01183e9947f0ee8a5327aee3965e4d38587226"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.aarch64-linux-musl-cxx03.tar.gz"
+[[titanlib]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9779a6c3363078d71585cf043168a1ebb0c9ea9f"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "909566dad4b239e0305b45c4eb1cf8e6117f30e5f6ea1f6d78a5e72dad5cf73d"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.aarch64-linux-musl-cxx11.tar.gz"
+[[titanlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d4d7c1990a60460101faed203aacf3c7fd4c953e"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "d4a05cf7363ee771d1920cb256b63f6084dc6fe79a9d6f6fa58a284372e28266"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[titanlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ecc17d9595ecf0fe0cce52bf52e0ebb7cd4898d"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "ad39d29a616f97d6c4eb489f0262d68a6282ebdb873272cc5e76be0a4535c19f"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[titanlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e48e6aea06f78968b75baf28ab6d324a5d5c2bb"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "d9417d2f2ed1aea104b17a5882c340946c7d8ec751012f5dc66129e81cbca0f0"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[titanlib]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f72957abbd7c7ec8277fae03f530307c34580369"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "72f05f3aa41b9b5ffb63d750c397f3edf8d314bf20094c89db0e9ff669fc4b7b"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[titanlib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "da3ae6bd54a74470940142bffbe2650f0bb03810"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "fa6ead1e79d8ee4534bad41a93bf03abdbcd01a7c1d8099a6cc32003cbce3d38"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.i686-linux-gnu-cxx03.tar.gz"
+[[titanlib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "928206bb204a9a1fbe5dbbb579e394ac334a5f18"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "3673044c1751a7b62648572a364c5dbb7a6cf0253a349d6e5703682af4519c2c"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.i686-linux-gnu-cxx11.tar.gz"
+[[titanlib]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a8213e441db792e7d7cd20264f06be5814a6a444"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "31727b07dd863ae8abc202e3a75249f1800f2a71e2e9e5af272108f36203de58"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.i686-linux-musl-cxx03.tar.gz"
+[[titanlib]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80aa5cdcd5aae98c9899d1265e25c8620a5e8f38"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "d73c83f6829ad15d76c2e9cfe4528a6cb4b25f7bcf7dd347b5eac66e6654bdfd"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.i686-linux-musl-cxx11.tar.gz"
+[[titanlib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9f7880c81c5f0f5eb94631b70a9121e77bd2abff"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "0dce5cf7f20ab5d44322ad2e7ef3f4971eb299f82c51079e7f7908fb823b8acd"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[titanlib]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f23c622b5fa7f112cf1b46a87388e2cf85f1bac1"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "c2784234a2fee4a7183f41b260f72ae6f610c9269a82c1ac9ebc24dd8e9c1b9a"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[titanlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e825664edfaf92160f46c2b12a9a4773ea69c8b"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "df4b1c86e43ed839ccaf775f87752a3bf07c02dc653cb44f2a4244c7e0c6c67d"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[titanlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1d4821e96f7681f9f1a4a5f66b0ebece8c02cbe5"
+libc = "glibc"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "69297f8f4ad98898c0c95f7429c5b4f537f12d9b99dae1d3176d80b80067b768"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[titanlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "827c37230312e9215878ee611175b1737d0b1221"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "c0ac1019d24ce88c28bc9c60ebdeb6f630eb15a6b9123059420cc420087e32f7"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.x86_64-linux-musl-cxx03.tar.gz"
+[[titanlib]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1eb609b634ad8eadab99ce36fd4e866b9cba4c95"
+libc = "musl"
+os = "linux"
+
+    [[titanlib.download]]
+    sha256 = "7062dffec537442babccf6e824fabbf1496b7cbb3bb6e55297d166b19ac4ad8d"
+    url = "https://github.com/roelstappers/titanlib_jll.jl/releases/download/titanlib-v0.2.0+0/titanlib.v0.2.0.x86_64-linux-musl-cxx11.tar.gz"
