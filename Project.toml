@@ -13,3 +13,4 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 
 [compat]
 julia = "1.0"
+GSL_jll = "2.6.0"
